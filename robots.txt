@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loapede.github.io/sitemap.html.gz
+Sitemap: https://loapede.github.io/app/sitemap.html.gz
+Sitemap: https://loapede.github.io/assets/sitemap.html.gz
+Sitemap: https://loapede.github.io/css/sitemap.html.gz
+Sitemap: https://loapede.github.io/includes/sitemap.html.gz
+Sitemap: https://loapede.github.io/item/sitemap.html.gz
+Sitemap: https://loapede.github.io/src/sitemap.html.gz
